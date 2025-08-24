@@ -1,0 +1,250 @@
+{"input": {"user_id": 72365, "name": "Ann Frey", "age": 36, "monthly_income": 47149, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 35100, "name": "Mrs. Robin Roberts", "age": 33, "monthly_income": 27863, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 18309, "name": "Connie Hutchinson", "age": 22, "monthly_income": 149407, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 67681, "name": "Rachael Johnston", "age": 26, "monthly_income": 73167, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 70735, "name": "Karen Watts", "age": 56, "monthly_income": 115172, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 41870, "name": "Mary Wright", "age": 51, "monthly_income": 67545, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 58005, "name": "Mrs. Melinda Arnold", "age": 50, "monthly_income": 143036, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 60773, "name": "Kimberly Palmer", "age": 21, "monthly_income": 75284, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 31890, "name": "Leslie Sherman", "age": 23, "monthly_income": 156688, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 29920, "name": "Heather Watkins", "age": 47, "monthly_income": 81686, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 18836, "name": "Rachel Hendricks", "age": 57, "monthly_income": 183801, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 89958, "name": "Alex Collins", "age": 63, "monthly_income": 151888, "employment_type": "Self-employed"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 93060, "name": "Ronald Beltran", "age": 29, "monthly_income": 137575, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 80651, "name": "Tracey Smith", "age": 62, "monthly_income": 147599, "employment_type": "Self-employed"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 25420, "name": "Parker Henry", "age": 27, "monthly_income": 196505, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 19669, "name": "Edward Herrera", "age": 39, "monthly_income": 56593, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 44779, "name": "Lisa Berry", "age": 52, "monthly_income": 106576, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 65353, "name": "Nicholas Padilla", "age": 33, "monthly_income": 58014, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 15610, "name": "Kim Ryan", "age": 56, "monthly_income": 70964, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 72528, "name": "Nicholas Burton", "age": 57, "monthly_income": 63934, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan"]}}
+{"input": {"user_id": 46654, "name": "Angelica Perez", "age": 61, "monthly_income": 19266, "employment_type": "Salaried"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 91639, "name": "Harry Schneider", "age": 44, "monthly_income": 125348, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 13232, "name": "Jesse Estrada", "age": 49, "monthly_income": 127285, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 73520, "name": "Ms. Patty Cole DDS", "age": 46, "monthly_income": 31498, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 15749, "name": "Daniel Orr", "age": 21, "monthly_income": 73241, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 36160, "name": "Catherine Mcintyre", "age": 47, "monthly_income": 86073, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 44549, "name": "Lisa Woods DVM", "age": 33, "monthly_income": 113318, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 59097, "name": "Brent Weaver", "age": 57, "monthly_income": 40448, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan"]}}
+{"input": {"user_id": 48152, "name": "Paul Davis", "age": 39, "monthly_income": 199929, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 77233, "name": "Tim Swanson", "age": 21, "monthly_income": 82962, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 87540, "name": "Brent Hubbard", "age": 41, "monthly_income": 173349, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 99046, "name": "Heather Davis", "age": 59, "monthly_income": 132203, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 70110, "name": "Robert Rodgers", "age": 56, "monthly_income": 58128, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 88895, "name": "James Thomas", "age": 36, "monthly_income": 21973, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 47314, "name": "Andrew Simpson", "age": 42, "monthly_income": 20600, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 84435, "name": "Angela Merritt", "age": 24, "monthly_income": 98865, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 40824, "name": "Trevor Garrett", "age": 22, "monthly_income": 111454, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 76070, "name": "Jonathan Johnson DDS", "age": 26, "monthly_income": 108555, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 64067, "name": "Curtis Beasley", "age": 57, "monthly_income": 199751, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 31731, "name": "Jessica Cochran", "age": 57, "monthly_income": 48717, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan"]}}
+{"input": {"user_id": 73876, "name": "Jacqueline Palmer MD", "age": 33, "monthly_income": 133481, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 34733, "name": "Rita Johnson", "age": 43, "monthly_income": 70883, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 48072, "name": "Rachel Bonilla", "age": 48, "monthly_income": 102421, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 59081, "name": "James Cummings", "age": 63, "monthly_income": 83640, "employment_type": "Salaried"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 37954, "name": "Adam Jones", "age": 57, "monthly_income": 94079, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 42469, "name": "Andrea Franklin", "age": 51, "monthly_income": 154356, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 80018, "name": "Karen Frank", "age": 46, "monthly_income": 41398, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 37125, "name": "Kimberly Graham", "age": 50, "monthly_income": 36178, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 54135, "name": "Carl Reid", "age": 33, "monthly_income": 33815, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 61388, "name": "Whitney Garcia", "age": 61, "monthly_income": 24855, "employment_type": "Self-employed"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 44639, "name": "Dakota Holloway", "age": 56, "monthly_income": 68590, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan"]}}
+{"input": {"user_id": 15339, "name": "Jessica Rodriguez", "age": 32, "monthly_income": 112439, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 15491, "name": "Patrick Wilson", "age": 40, "monthly_income": 51291, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 49345, "name": "Matthew Munoz", "age": 30, "monthly_income": 74945, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 18912, "name": "Daniel Gibson", "age": 60, "monthly_income": 193267, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 46706, "name": "William Davis", "age": 22, "monthly_income": 84980, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 35104, "name": "Claire Johnson", "age": 42, "monthly_income": 45638, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 15393, "name": "Don Lewis", "age": 23, "monthly_income": 70001, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 66500, "name": "Michael Fields", "age": 23, "monthly_income": 139590, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 52171, "name": "Jill Davenport", "age": 56, "monthly_income": 79647, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 61708, "name": "Kimberly Hampton", "age": 29, "monthly_income": 118202, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 20613, "name": "Ronald Hunter", "age": 28, "monthly_income": 25672, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 73215, "name": "Meghan Kelly", "age": 34, "monthly_income": 106681, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 72915, "name": "Stanley Morgan", "age": 40, "monthly_income": 75674, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 56119, "name": "Ashley Klein", "age": 61, "monthly_income": 15324, "employment_type": "Salaried"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 54758, "name": "Kenneth Wilcox", "age": 21, "monthly_income": 81951, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 77902, "name": "Tiffany Gomez", "age": 48, "monthly_income": 94839, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 70781, "name": "Michael Henderson", "age": 57, "monthly_income": 117727, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 45677, "name": "Sarah Anderson", "age": 64, "monthly_income": 24144, "employment_type": "Salaried"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 43072, "name": "Hannah Barton", "age": 28, "monthly_income": 129937, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 27936, "name": "Juan Collins MD", "age": 30, "monthly_income": 153858, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 15943, "name": "Mary Mccann", "age": 27, "monthly_income": 60683, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 30263, "name": "Victoria Brown", "age": 49, "monthly_income": 70562, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 13810, "name": "Patrick Bates", "age": 33, "monthly_income": 156316, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 31972, "name": "Patricia Vincent", "age": 49, "monthly_income": 89441, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 39483, "name": "Jason Curtis", "age": 31, "monthly_income": 50963, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 18234, "name": "Melissa Hernandez", "age": 27, "monthly_income": 87199, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 49804, "name": "Elizabeth Mcmillan", "age": 29, "monthly_income": 90511, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 32297, "name": "Paul Harrison", "age": 51, "monthly_income": 117570, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 31984, "name": "David Lee", "age": 18, "monthly_income": 126828, "employment_type": "Self-employed"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 65797, "name": "Julia Collins", "age": 63, "monthly_income": 80928, "employment_type": "Self-employed"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 65673, "name": "Nathaniel Hansen", "age": 52, "monthly_income": 44243, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 93157, "name": "Vanessa Leblanc", "age": 43, "monthly_income": 111519, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 53053, "name": "Karen Silva", "age": 45, "monthly_income": 192333, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 99772, "name": "Charles Andrews", "age": 22, "monthly_income": 123850, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 52296, "name": "Kelly Watts", "age": 42, "monthly_income": 126168, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 96009, "name": "Beth Sexton", "age": 30, "monthly_income": 42948, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 48984, "name": "Sharon Clark", "age": 62, "monthly_income": 174354, "employment_type": "Self-employed"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 83254, "name": "Nicole Stanley", "age": 45, "monthly_income": 129084, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 55152, "name": "Jennifer Clark", "age": 38, "monthly_income": 178498, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 32312, "name": "Katherine Carter", "age": 56, "monthly_income": 28604, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan"]}}
+{"input": {"user_id": 26593, "name": "James Barrera", "age": 45, "monthly_income": 164909, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 35605, "name": "Mary Michael", "age": 32, "monthly_income": 34893, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 38874, "name": "Julie Myers", "age": 48, "monthly_income": 55694, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 43854, "name": "Jennifer Gould", "age": 65, "monthly_income": 165806, "employment_type": "Self-employed"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 83518, "name": "Cynthia Lopez", "age": 56, "monthly_income": 72225, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan"]}}
+{"input": {"user_id": 59948, "name": "Jack Phelps", "age": 52, "monthly_income": 96238, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 65643, "name": "Megan Bowman", "age": 42, "monthly_income": 120766, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 31563, "name": "Ryan Lee", "age": 48, "monthly_income": 146591, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 34289, "name": "Diane Hart", "age": 65, "monthly_income": 72227, "employment_type": "Salaried"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 84551, "name": "Joshua Martinez", "age": 19, "monthly_income": 166886, "employment_type": "Self-employed"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 32822, "name": "Mary Martinez", "age": 33, "monthly_income": 47865, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 48620, "name": "Bethany Koch", "age": 31, "monthly_income": 62535, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 68785, "name": "Jordan Chang", "age": 59, "monthly_income": 64286, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 56242, "name": "Bryan Miller", "age": 30, "monthly_income": 99169, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 84643, "name": "William Abbott", "age": 28, "monthly_income": 90644, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 25033, "name": "Mr. Michael Wade PhD", "age": 44, "monthly_income": 31638, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 53629, "name": "Eric Brown", "age": 25, "monthly_income": 147177, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 59878, "name": "Teresa Mckenzie", "age": 34, "monthly_income": 63616, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 14181, "name": "Meghan Kim", "age": 39, "monthly_income": 107535, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 64300, "name": "Ashley George", "age": 41, "monthly_income": 68224, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 72042, "name": "Lauren Greene", "age": 29, "monthly_income": 111282, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 45325, "name": "Megan Harris", "age": 52, "monthly_income": 15510, "employment_type": "Salaried"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 14834, "name": "Felicia Fisher", "age": 52, "monthly_income": 54898, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 94451, "name": "Jeffrey Bowers", "age": 27, "monthly_income": 101480, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 44981, "name": "Elizabeth Morales", "age": 27, "monthly_income": 30331, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 16219, "name": "James Williams", "age": 21, "monthly_income": 70614, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 33185, "name": "Joseph Martinez", "age": 26, "monthly_income": 38372, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 51821, "name": "Annette Dixon", "age": 54, "monthly_income": 141964, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 74321, "name": "Joseph Moore", "age": 37, "monthly_income": 144125, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 72409, "name": "Cynthia Bass", "age": 46, "monthly_income": 129543, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 90538, "name": "Willie Alvarez", "age": 21, "monthly_income": 122502, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 14813, "name": "Robin Chaney", "age": 38, "monthly_income": 32084, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 33214, "name": "Jillian Mcfarland", "age": 21, "monthly_income": 110395, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 80528, "name": "Eddie Garza", "age": 51, "monthly_income": 117937, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 75208, "name": "Claire Brennan", "age": 29, "monthly_income": 33529, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 52211, "name": "Jonathan Phillips", "age": 19, "monthly_income": 112950, "employment_type": "Salaried"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 82997, "name": "Kristi Gonzalez", "age": 42, "monthly_income": 116615, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 89718, "name": "Manuel Price", "age": 51, "monthly_income": 107267, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 70049, "name": "Joshua Garrett", "age": 58, "monthly_income": 69224, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan"]}}
+{"input": {"user_id": 78067, "name": "Holly Moreno", "age": 45, "monthly_income": 157822, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 95308, "name": "John Rogers", "age": 60, "monthly_income": 115341, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 77024, "name": "Eric Mills", "age": 46, "monthly_income": 24821, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 72109, "name": "Mark Love", "age": 57, "monthly_income": 50206, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 93106, "name": "Kyle Jacobs", "age": 28, "monthly_income": 38925, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 24560, "name": "Adam Hoffman", "age": 46, "monthly_income": 180963, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 85199, "name": "Shannon Davis", "age": 48, "monthly_income": 137619, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 59489, "name": "Amanda Evans", "age": 39, "monthly_income": 109906, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 58265, "name": "Anthony Jones", "age": 61, "monthly_income": 134487, "employment_type": "Self-employed"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 27202, "name": "Jonathan Reid", "age": 49, "monthly_income": 86654, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 10422, "name": "John Burke", "age": 61, "monthly_income": 41158, "employment_type": "Self-employed"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 57771, "name": "Daniel Brown", "age": 50, "monthly_income": 79316, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 25022, "name": "Patrick Warner", "age": 40, "monthly_income": 190258, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 79837, "name": "Adam Odonnell", "age": 44, "monthly_income": 21337, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 84819, "name": "Beverly Reynolds", "age": 26, "monthly_income": 94551, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 29948, "name": "Eric Flowers", "age": 58, "monthly_income": 56074, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 52604, "name": "Christian Rose", "age": 46, "monthly_income": 38087, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 13296, "name": "Jorge Cooper", "age": 52, "monthly_income": 98197, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 63408, "name": "Cassandra Skinner", "age": 57, "monthly_income": 48152, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan"]}}
+{"input": {"user_id": 65130, "name": "Debbie Williams", "age": 51, "monthly_income": 125710, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 76339, "name": "Jennifer Wise", "age": 43, "monthly_income": 41549, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 51994, "name": "Alan Fisher", "age": 44, "monthly_income": 28478, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 98685, "name": "Danielle Wilson", "age": 41, "monthly_income": 108965, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 41020, "name": "Carolyn Padilla", "age": 56, "monthly_income": 22150, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Car Loan"]}}
+{"input": {"user_id": 93222, "name": "Sandra Silva", "age": 49, "monthly_income": 177831, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 81654, "name": "Teresa Hayes", "age": 28, "monthly_income": 89900, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 73905, "name": "Melissa Jackson", "age": 45, "monthly_income": 98661, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 22316, "name": "Michelle Archer", "age": 59, "monthly_income": 73593, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 98390, "name": "Lindsey Sanchez", "age": 35, "monthly_income": 78919, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 93821, "name": "Benjamin Smith", "age": 59, "monthly_income": 22972, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan"]}}
+{"input": {"user_id": 24010, "name": "Nicholas Cooper", "age": 34, "monthly_income": 76953, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 94777, "name": "Paul Ryan", "age": 22, "monthly_income": 154659, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 86705, "name": "Brittany Rodriguez", "age": 50, "monthly_income": 89525, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 27018, "name": "Stephanie Patel", "age": 29, "monthly_income": 142782, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 72802, "name": "Patricia Jordan", "age": 22, "monthly_income": 123319, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 84230, "name": "Amy Lamb", "age": 53, "monthly_income": 86515, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 16957, "name": "Kenneth Chambers", "age": 53, "monthly_income": 149629, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 15620, "name": "Sarah Russo", "age": 57, "monthly_income": 93539, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 89402, "name": "Brandon Lopez", "age": 20, "monthly_income": 100708, "employment_type": "Self-employed"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 53622, "name": "Lucas Cummings", "age": 41, "monthly_income": 118065, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 73535, "name": "Cynthia Shaffer", "age": 34, "monthly_income": 122185, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 86436, "name": "Stephanie Moore", "age": 60, "monthly_income": 20709, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Car Loan"]}}
+{"input": {"user_id": 16612, "name": "Megan Garcia", "age": 22, "monthly_income": 188870, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 80814, "name": "Sarah Valenzuela DDS", "age": 33, "monthly_income": 84656, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 46538, "name": "Taylor Lee", "age": 36, "monthly_income": 75323, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 57862, "name": "Matthew Nguyen", "age": 36, "monthly_income": 31265, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 10410, "name": "Amanda Tran", "age": 57, "monthly_income": 137091, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 76571, "name": "Frank Price", "age": 37, "monthly_income": 148840, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 29058, "name": "Donald Velez", "age": 35, "monthly_income": 101651, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 32026, "name": "Cameron White", "age": 38, "monthly_income": 158674, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 48705, "name": "Jason Howard", "age": 32, "monthly_income": 20210, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 11811, "name": "Matthew Marsh", "age": 50, "monthly_income": 113909, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 92837, "name": "Johnny Mcmillan", "age": 53, "monthly_income": 198935, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 34731, "name": "Laura Malone", "age": 54, "monthly_income": 187710, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 88382, "name": "Eric James", "age": 52, "monthly_income": 23752, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 86504, "name": "Michael Alexander", "age": 41, "monthly_income": 42148, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 82444, "name": "Fernando Cobb", "age": 56, "monthly_income": 95761, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan"]}}
+{"input": {"user_id": 70423, "name": "Linda Mitchell", "age": 60, "monthly_income": 113728, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 61174, "name": "Andres Foster", "age": 59, "monthly_income": 61038, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 85513, "name": "Patrick Nelson", "age": 33, "monthly_income": 122256, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 15019, "name": "Brendan Brennan", "age": 50, "monthly_income": 111464, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 25359, "name": "Tracy Powell", "age": 48, "monthly_income": 197705, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 10968, "name": "Pamela Parsons", "age": 59, "monthly_income": 19894, "employment_type": "Salaried"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 18057, "name": "Perry Thomas", "age": 35, "monthly_income": 90169, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 38047, "name": "Pamela Burns", "age": 29, "monthly_income": 22879, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 45968, "name": "Randy Myers", "age": 48, "monthly_income": 165859, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 38570, "name": "Mr. Tyler Scott", "age": 40, "monthly_income": 121885, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 63744, "name": "Rachel Powell", "age": 34, "monthly_income": 137482, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 80366, "name": "David Mitchell", "age": 21, "monthly_income": 152456, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 39940, "name": "Alexandra Kaiser", "age": 35, "monthly_income": 139927, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 53135, "name": "Diana Wolfe", "age": 21, "monthly_income": 21477, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 23875, "name": "Toni Wheeler", "age": 63, "monthly_income": 194852, "employment_type": "Self-employed"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 18062, "name": "Kelly Archer", "age": 56, "monthly_income": 51296, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 84367, "name": "Edward Jones DDS", "age": 28, "monthly_income": 37847, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 13636, "name": "Susan Diaz", "age": 54, "monthly_income": 69941, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 36018, "name": "Jeffery Smith", "age": 56, "monthly_income": 155570, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 85899, "name": "Suzanne Jones", "age": 21, "monthly_income": 87513, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 55852, "name": "Elizabeth Mack", "age": 45, "monthly_income": 59063, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 75511, "name": "Omar Rodriguez", "age": 33, "monthly_income": 42352, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 29982, "name": "Tyler Clark", "age": 53, "monthly_income": 39053, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 26967, "name": "Jeffrey Hughes", "age": 32, "monthly_income": 103366, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 87878, "name": "Ian Lopez", "age": 49, "monthly_income": 112445, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 27156, "name": "Sean Flores", "age": 47, "monthly_income": 91070, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 95431, "name": "Jaime Johnson", "age": 49, "monthly_income": 81568, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 30056, "name": "Patricia Nguyen", "age": 54, "monthly_income": 101401, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 73815, "name": "Justin Warren", "age": 22, "monthly_income": 197852, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 37456, "name": "Jay Page", "age": 64, "monthly_income": 59368, "employment_type": "Salaried"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 25031, "name": "Beverly Stewart", "age": 64, "monthly_income": 92849, "employment_type": "Self-employed"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 42454, "name": "Steve Daniels", "age": 23, "monthly_income": 104271, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 58748, "name": "Alexis Hays", "age": 35, "monthly_income": 133857, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 40547, "name": "Kathleen Wells", "age": 34, "monthly_income": 38976, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 41110, "name": "April Scott", "age": 60, "monthly_income": 119204, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 58724, "name": "Martin Barry", "age": 51, "monthly_income": 47744, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 61036, "name": "Lacey Jordan", "age": 48, "monthly_income": 40157, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 43919, "name": "Keith Richards", "age": 35, "monthly_income": 126315, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 33528, "name": "Kathy Simmons", "age": 57, "monthly_income": 172870, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 53617, "name": "Madeline Torres", "age": 60, "monthly_income": 123695, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 57093, "name": "Bob Russell", "age": 39, "monthly_income": 183669, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 43991, "name": "Ronald Blake", "age": 57, "monthly_income": 148161, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan"]}}
+{"input": {"user_id": 81494, "name": "Stephanie Daniels", "age": 65, "monthly_income": 171670, "employment_type": "Self-employed"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 80819, "name": "Rachel Richards", "age": 46, "monthly_income": 117279, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 13348, "name": "Michael Smith", "age": 23, "monthly_income": 108632, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 59085, "name": "Kimberly Griffith", "age": 21, "monthly_income": 127469, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 68022, "name": "Tracey Johnson", "age": 22, "monthly_income": 75318, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 28946, "name": "Kathryn Brady", "age": 32, "monthly_income": 101948, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 58112, "name": "Eric Davis", "age": 48, "monthly_income": 119664, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 53590, "name": "Mark Harmon", "age": 50, "monthly_income": 155996, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 57511, "name": "Max Henry", "age": 41, "monthly_income": 69280, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 55269, "name": "Barry Ellis", "age": 48, "monthly_income": 86766, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 45253, "name": "Caroline Ramirez", "age": 65, "monthly_income": 122626, "employment_type": "Salaried"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 84114, "name": "Brian Hardin", "age": 29, "monthly_income": 37965, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 51055, "name": "Toni Meyers", "age": 25, "monthly_income": 37573, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 62343, "name": "Ashlee Holland", "age": 43, "monthly_income": 139990, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 77014, "name": "Nancy Lewis", "age": 45, "monthly_income": 65498, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 87749, "name": "Casey Ray", "age": 43, "monthly_income": 87960, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 30841, "name": "Robert Price", "age": 25, "monthly_income": 28148, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Personal Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 27237, "name": "Mary Woods", "age": 56, "monthly_income": 177659, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan"]}}
+{"input": {"user_id": 68950, "name": "Sharon Baker", "age": 26, "monthly_income": 54754, "employment_type": "Self-employed"}, "output": {"recommended_loans": ["Home Loan", "Car Loan", "Travel Loan"]}}
+{"input": {"user_id": 74588, "name": "Nicholas Roth", "age": 61, "monthly_income": 54371, "employment_type": "Self-employed"}, "output": {"recommended_loans": []}}
+{"input": {"user_id": 38033, "name": "James Gregory", "age": 35, "monthly_income": 145903, "employment_type": "Salaried"}, "output": {"recommended_loans": ["Home Loan", "Personal Loan", "Car Loan", "Travel Loan"]}}
